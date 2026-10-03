@@ -43,7 +43,7 @@ function App() {
 
       <audio
         id="birthday-music"
-        src="/music/birthday-song.mp3"
+        src="/birthday-song.mp3"
         loop
       />
 
